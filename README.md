@@ -18,12 +18,12 @@
  <h3 align="left">
 🚀 AI Developer | Web Developer  <br>
 📍 Mumbai, India  <br>
-<p>
+<p><br>
 I am passionate about building real-world AI-powered applications that combine Machine Learning with modern web technologies.  
 <br>
 I enjoy turning ideas into working products and continuously improving my skills in AI and Web development.</h3>
 </p>
-**<h3 align="left">Rapid Fire</h3>**
+<h3 align="left">Rapid Fire</h3>
 
 💼 I'm currently working on: <br>**Building AI-powered web applications using FastAPI**<br><p>
 🌱 I'm currently learning:<br> **- Python (Advanced + OOP)<br> - Machine Learning (Scikit-learn)<br> - FastAPI & Backend Development <br>- Generative AI & Prompt Engineering**<br></p><p>
