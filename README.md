@@ -1,6 +1,6 @@
-![👋 Hi, My Name is Mohammad Sahil Khan](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![👋 Hi, My Name is Mohammad Sahil Khan](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-![Profile views](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![Profile views](https://komarev.com/ghpvc/?username=Developer-Sahil21&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
