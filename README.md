@@ -26,7 +26,7 @@ I enjoy turning ideas into working products and continuously improving my skills
 
 **<h3 align="left">Rapid Fire</h3>**
 
-💼 I'm currently working on: **Building AI-powered web applications using FastAPI**<br><p>
+💼 I'm currently working on: <br>**Building AI-powered web applications using FastAPI**<br><p>
 🌱 I'm currently learning:<br> **- Python (Advanced + OOP)<br> - Machine Learning (Scikit-learn)<br> - FastAPI & Backend Development <br>- Generative AI & Prompt Engineering**<br></p><p>
 💬 Ask me about:<br> **- Python Programming<br> - Machine Learning Basics<br> - AI Project Development<br> - Git & GitHub<br> - Building AI Web Applications**</p>
 
