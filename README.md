@@ -15,14 +15,14 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Developer-sahil21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">
+ <h3 align="left">
 🚀 AI Developer | Web Developer  <br>
 📍 Mumbai, India  <br>
 
 I am passionate about building real-world AI-powered applications that combine Machine Learning with modern web technologies.  
 
 <p><br>
-I enjoy turning ideas into working products and continuously improving my skills in AI and Web development.</h3>**
+I enjoy turning ideas into working products and continuously improving my skills in AI and Web development.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
